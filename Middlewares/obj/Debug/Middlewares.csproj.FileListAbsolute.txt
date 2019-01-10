@@ -1,0 +1,13 @@
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Middlewares.exe.config
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\obj\Debug\Middlewares.csprojResolveAssemblyReference.cache
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Middlewares.exe
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Middlewares.pdb
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Microsoft.Owin.dll
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Microsoft.Owin.Host.HttpListener.dll
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Microsoft.Owin.Hosting.dll
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Owin.dll
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Microsoft.Owin.xml
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Microsoft.Owin.Host.HttpListener.xml
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\bin\Debug\Microsoft.Owin.Hosting.xml
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\obj\Debug\Middlewares.exe
+D:\autenticacaoAutorizacaoProduto\AA.Net - Middlewares - Customizados\Middlewares\Middlewares\obj\Debug\Middlewares.pdb
